@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KoishiPrivatePlayer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KoishiPrivatePlayer_jar</output-path>
+    <root id="archive" name="KoishiPrivatePlayer.jar">
+      <element id="module-output" name="KoishiPrivatePlayer" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jl1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jaudiotagger-2.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
